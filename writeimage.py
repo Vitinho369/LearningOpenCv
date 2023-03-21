@@ -1,6 +1,6 @@
 import cv2 as cv
 
-img = cv.imread('./Python/opencv/lena.jpg', cv.IMREAD_GRAYSCALE)
+img = cv.imread('./Python/LearningOpenCv/lena.jpg', cv.IMREAD_GRAYSCALE)
 
 print(img.shape)
 print(img)
